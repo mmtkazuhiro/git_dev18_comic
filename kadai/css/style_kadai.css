@@ -1,0 +1,134 @@
+
+h1{
+    border-left: solid 5px #999966;
+    background: #FF9966;
+    padding: 10px;
+    width: 550px;
+    border-bottom: solid 5px #CC9966;
+}
+
+
+.name{
+    display: flex;
+    font-size: 20px;
+}
+
+#id{
+    font-weight: bold;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.setumei{
+    border: solid;
+    border-color: #ace3da;
+    border-radius: 8px;
+    width: 1000px;
+}
+
+.insetumei{
+    padding: 10px;
+}
+
+.question{
+    display: flex;
+    flex-direction: column;
+}
+
+.read{
+    padding-left: 60px;
+}
+
+.think{
+    padding-left: 45px;
+}
+
+
+
+.idea1{
+    position: absolute;
+    padding-left: 20px;
+    padding-top: 73px;
+}
+
+.inininsetumei{
+    display: flex;
+}
+
+.ya{
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+
+.write{
+    position: absolute;
+    padding-left: 260px;
+    padding-top:  45px;
+    text-align: center;
+}
+
+.ininsetumei{
+    display: flex;
+}
+
+.example_title{
+    display: flex;
+}
+
+.in_example_title{
+    display: flex;
+    flex-direction: column;
+}
+
+.example_idea{
+    display: flex;
+    padding-top: 30px;
+}
+
+.in_example_idea{
+    display: flex;
+    flex-direction: column;
+}
+
+.example{
+    padding-left: 70px;
+}
+
+.twopiece{
+    padding-left: 30px;
+}
+
+.kyoshu{
+    padding-left: 30px;
+}
+
+.input{
+    display: flex;
+}
+
+.idea{
+    display: flex;
+
+    padding-left: 20px;
+}
+
+.text{
+    padding-top: 10px;
+}
+
+.inidea{
+    padding-top: 20px;
+}
+
+.title{
+    padding-top: 20px;
+}
+
+.submit{
+    padding-top: 20px;
+}
+
+.outsubmit{
+    padding-left: 20px;
+}

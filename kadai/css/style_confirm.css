@@ -1,0 +1,164 @@
+h1{
+    border-left: solid 5px #999966;
+    background: #FF9966;
+    padding: 10px;
+    width: 550px;
+    border-bottom: solid 5px #CC9966;
+}
+
+.setumei{
+    border: solid;
+    border-color: #ace3da;
+    border-radius: 8px;
+    width: 1000px;
+}
+
+.insetumei{
+    padding: 10px;
+}
+
+.example_title{
+    display: flex;
+}
+
+.in_example_title{
+    display: flex;
+    flex-direction: column;
+}
+
+.example_idea{
+    display: flex;
+    padding-top: 30px;
+}
+
+.in_example_idea{
+    display: flex;
+    flex-direction: column;
+}
+
+.example{
+    padding-left: 20px;
+}
+
+.twopiece{
+    padding-left: 30px;
+}
+
+.kyoshu{
+    padding-left: 30px;
+}
+
+.input{
+    display: flex;
+}
+
+.idea{
+    display: flex;
+    padding-left: 20px;
+}
+
+.text{
+    padding-top: 10px;
+}
+
+.inidea{
+    padding-top: 20px;
+}
+
+.ininsetumei{
+    display: flex;
+}
+
+.ya{
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+
+.write{
+    position: absolute;
+    padding-left: 20px;
+    padding-top:  45px;
+    text-align: center;
+}
+
+.gazou{
+    padding-left: 30px;
+}
+
+.gold1{
+    padding-left: 101px;
+}
+
+.silver1{
+    padding-left: 30px;
+
+}
+
+.s_b{
+    display: flex;
+}
+
+.bronze1{
+    padding-left: 46px;
+}
+
+.give{
+    padding-left: 60px;
+}
+
+.result1{
+    text-align: center;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.inisetumei{
+    display: flex;
+}
+
+
+.result{
+    display: flex;
+}
+
+.bronze, .silver{
+   padding-right: 20px;
+}
+
+#result_bronze, #result_silver, #result_gold{
+   display:none;
+}
+
+.slot_b, .slot_s, .slot_g{
+   margin-top: auto;
+   padding-left: 20px;
+   display:none;
+}
+
+.point_b, .point_s, .point_g, .point_bt, .point_st, .point_gt{
+   display: none;
+}
+
+
+.slot_b, .slot_s, .slot_g{
+    padding-left: 10px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+.in_slot_b, .in_slot_s, .in_slot_g{
+    width:150px;
+    font-size:24px;
+    font-weight:bold;
+    text-align:center;
+    color:#fff;
+    background-color:#34b61a;
+    border-radius:50px;
+}
+
+.point_total{
+    font-weight: bold;
+    font-size: 20px;
+}
+

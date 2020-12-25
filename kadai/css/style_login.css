@@ -1,0 +1,97 @@
+h1{
+    border-left: solid 5px #999966;
+    background: #FF9966;
+    padding: 10px;
+    width: 550px;
+    border-bottom: solid 5px #CC9966;
+}
+
+.setumei{
+    border: solid;
+    border-color: #ace3da;
+    border-radius: 8px;
+    width: 1000px;
+}
+
+.insetumei{
+    padding: 10px;
+}
+
+.question{
+    display: flex;
+    flex-direction: column;
+}
+
+.read{
+    padding-left: 80px;
+}
+
+.think{
+    padding-left: 45px;
+}
+
+.idea{
+    position: absolute;
+    padding-left: 20px;
+    padding-top: 73px;
+}
+
+.inininsetumei{
+    display: flex;
+}
+
+.ya{
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+
+.buy{
+    position: absolute;
+    padding-left: 310px;
+    padding-top:  45px;
+    text-align: center;
+}
+
+.ininsetumei{
+    display: flex;
+}
+
+.outgive{
+    display: flex;
+    flex-direction: column;
+}
+
+.gold{
+    padding-left: 101px;
+}
+
+.silver{
+    padding-left: 30px;
+
+}
+
+.s_b{
+    display: flex;
+}
+
+.bronze{
+    padding-left: 46px;
+}
+
+.give{
+    position: absolute;
+    text-align: center;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+
+.medal{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.result{
+    text-align: center;
+    padding-top: 10px;
+}
